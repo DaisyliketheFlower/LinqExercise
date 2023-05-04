@@ -30,7 +30,7 @@ namespace LinqExercise
             Console.WriteLine("Asc Order:");
             foreach(var num in ascOrder)
             {
-                Console.WriteLine($"(num)");
+                Console.WriteLine($"{num}");
             }
             Console.WriteLine();
             //TODO: Order numbers in decsending order and print to the console
